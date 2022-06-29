@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Associations les musiciens d'à côté
 published: true
 ---
