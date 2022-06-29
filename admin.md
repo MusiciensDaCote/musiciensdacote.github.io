@@ -17,5 +17,5 @@ published: true
 
 ## Comptes et documents officiels
 
-[partagés sur google drive](https://drive.google.com/drive/folders/1MAX9QrLxx7vAnOjsBh1_88Z9fx4GOfZO?usp=sharing)
-
+- [partagés sur google drive](https://drive.google.com/drive/folders/1MAX9QrLxx7vAnOjsBh1_88Z9fx4GOfZO?usp=sharing)
+- Demander l'accès à Pierre (nécessitent un compte google)
