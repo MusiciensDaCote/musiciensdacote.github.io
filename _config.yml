@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 title: Les musiciens d'à côté
 lsi: false
 safe: true
