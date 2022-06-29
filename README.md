@@ -1,3 +1,9 @@
+# La page de l'association les miusiciens d'à côté
+
+On essaie de ne pas mettre d'informations personnelles SVP. Les liens google drive sont possibles puisqu'il ne donnent accès qu'en lecture. En particulier les statuts de l'association sont de toute façon publics.
+
+Ci-dessous le mode d'emploi jekyll/markdown.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MusiciensDaCote/musiciensdacote.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
