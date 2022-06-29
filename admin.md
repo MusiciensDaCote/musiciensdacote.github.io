@@ -1,5 +1,7 @@
 ---
+id: admin
 title: Associations les musiciens d'à côté -- Information administrative
+sidebar_label: Documents administratifs
 published: true
 ---
 

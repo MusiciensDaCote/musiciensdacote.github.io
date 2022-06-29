@@ -4,7 +4,7 @@ published: true
 ---
 
 - *Besoin d'assistance (24/7): 0800 875 875* (depuis l'étranger: 33 5 49 77 47 78)
-- [les doodle en cours](doodles.md)
+- [les doodle en cours](doodles.html)
 
 # Calendrier
 
