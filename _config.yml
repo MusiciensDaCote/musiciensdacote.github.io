@@ -1,14 +1,14 @@
 
 # remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # remote_theme: pages-themes/slate@main
-remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # remote_theme: "mmistakes/minimal-mistakes@main"
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Les musiciens d'à côté
+title: Association "Les musiciens d'à côté"
 lsi: false
 safe: true
 incremental: false
@@ -19,8 +19,16 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# Ceci marche avec le thème some code in between three mais ça prend trop de place.
-sidebar:
-  - index
-  - doodles
-  - admin
+# Ceci marche avec certains theme thème some code in between three mais ça prend trop de place.
+# sidebar:
+  # - index
+  # - doodles
+  # - admin
+defaults:
+  # _pages
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "pages"
+      layout: single # sinon le menu de gauch n'apparaît que sur lap ag d'accueil

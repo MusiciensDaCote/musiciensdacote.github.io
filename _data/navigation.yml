@@ -1,0 +1,7 @@
+pages:
+  - title: Accueil
+    url: "/index.html"
+  - title: sondages
+    url: "/doodles.html"
+  - title: Administratif
+    url: admin

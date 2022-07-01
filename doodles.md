@@ -1,7 +1,7 @@
 ---
 id: doodles
+type: pages
 title: Associations les musiciens d'à côté
-subtitle: Les sondages en cours
 published: true
 ---
 
