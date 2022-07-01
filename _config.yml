@@ -6,8 +6,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # remote_theme: "mmistakes/minimal-mistakes@main"
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 title: Association "Les musiciens d'à côté"
 lsi: false
