@@ -1,6 +1,26 @@
 # La page de l'association les miusiciens d'à côté
 
-On essaie de ne pas mettre d'informations personnelles SVP. Les liens google drive sont possibles puisqu'il ne donnent accès qu'en lecture. En particulier les statuts de l'association sont de toute façon publics.
+On essaie de ne pas mettre d'informations personnelles SVP. Les liens
+google drive sont possibles puisqu'il ne donnent accès qu'en lecture.
+En particulier les statuts de l'association sont de toute façon
+publics.
+
+## Pour compiler les pages web localement avant de ployer sur github
+
+Le site utilise jekyll, qu'on install via les gems de ruby.
+
+### Mise à jour
+
+Si on met à jour Gemfile ou _config.yml, il faut refaire `bundler
+update` (avec `sudo` si nécessaire).
+
+### Comment installer jekyll et les plugins
+
+Cela nécessite d'installer ruby d'abord. Ensuite bundle installera les
+gem qu'il faut en principe.
+
+Ensuite `bundle exec jekyll serve` devrait lancer un serveur local sur
+`http://127.0.0.1:4000/`.
 
 Ci-dessous le mode d'emploi jekyll/markdown.
 
