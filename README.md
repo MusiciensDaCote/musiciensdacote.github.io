@@ -14,6 +14,8 @@ Le site utilise jekyll, qu'on install via les gems de ruby.
 Si on met à jour Gemfile ou _config.yml, il faut refaire `bundler
 update` (avec `sudo` si nécessaire).
 
+Il peut arriver qu'il faille mettre à jour les gems: `[sudo] gem
+update`.
 ### Comment installer jekyll et les plugins
 
 Cela nécessite d'installer ruby d'abord. Ensuite bundle installera les
