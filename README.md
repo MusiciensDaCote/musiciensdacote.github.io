@@ -5,7 +5,7 @@ google drive sont possibles puisqu'il ne donnent accès qu'en lecture.
 En particulier les statuts de l'association sont de toute façon
 publics.
 
-## Pour compiler les pages web localement avant de ployer sur github
+## Pour compiler les pages web localement avant de déployer sur github
 
 Le site utilise jekyll, qu'on install via les gems de ruby.
 
@@ -16,6 +16,7 @@ update` (avec `sudo` si nécessaire).
 
 Il peut arriver qu'il faille mettre à jour les gems: `[sudo] gem
 update`.
+
 ### Comment installer jekyll et les plugins
 
 Cela nécessite d'installer ruby d'abord. Ensuite bundle installera les
