@@ -8,35 +8,29 @@ published: true
 
 ## Conseil d'administration
 
-Composition 2021-2022 du CA (+ rôle dans le bureau)
+Composition 2022-2023 du CA (+ rôle dans le bureau)
 
 - Cécile de Kervasdoué: Présidente
 - Valentine Lopez: Secrétaire
 - Pierre Courtieu: Trésorier
 
-## Assemblées générales
+[historique](#historique-ca)
 
-16/10/2022, 20H30 à l'EPHAD Verdier: AG ordinaire pendant le créneau de la répétition.
+## Prochaine Assemblée générale
 
-ODJ:
-- APPROBATION DES COMPTES
-  - vote sur le site de l'asso (rubrique "sondages")
-  - les comptes sont consultables (toute l'année, pas besoin de
-    compte google) sur le site de l'asso ci-dessous (rubrique "administratif")
-- ÉLECTION DES MEMBRES DU CA. VOTE PRÉSENTIEL à bulletin secret). En
-  2022 les membres du CA sont au nombre de 3 et sont également les
-  membres du bureau (voir ci-dessus). Le nombre de membres au CA
-  n'est pas limité, les candidatures sont bienvenues. Le CA
-  désignera les 3 membres du bureau d'ici 2023.
+fin 2023
+
+[historique](#historique-ca)
 
 ## Comptes et documents officiels
 
-- les documents relatifs à l'association (comptes, statuts,
+-Lles documents relatifs à l'association (comptes, statuts,
   contrats d'assurance,...) sont [partagés sur google
   drive](https://drive.google.com/drive/folders/1MAX9QrLxx7vAnOjsBh1_88Z9fx4GOfZO?usp=sharing)
   (pour les comptes: attention à sélectionner l'onglet correspondant à
   l'année en cours).
-- demander l'accès à Pierre (nécessitent un compte google) pour un accès en écriture
+- Pour un accès en *écriture*, demander l'accès à Pierre (nécessite un
+  compte google)
 
 ### Adhésions
 
@@ -46,7 +40,8 @@ ODJ:
 - vous pouvez également demander un reçu pour votre adhésion
 - montants des adhésions
   - sept 2021 - 31 déc 2022: 10€
-  - 2023: à décider, probablement ~10€.
+  - 2023: 10€.
+  - 2024: à décider en AG.
 
 ## RIB pour les adhésions
 
@@ -78,3 +73,31 @@ Numérode compte -- clé RIB
   Pierre.
 - [mail](mailto:gestionsocietaire@maif.fr)
 - contrat d'assurance: voir les documents ci-dessous
+
+
+<hr style="height:4px;border-width:0;color:gray;background-color:gray"> 
+
+## <a name="historique-ca"></a>Historique CA et AG
+
+### 09/2020-2022 
+
+**CA**: Cécile de Kervasdoué: Présidente, Valentine Lopez: Secrétaire, Pierre Courtieu: Trésorier
+
+**AG**: 16/10/2022
+
+- 20H30 à l'EPHAD Verdier: AG ordinaire pendant le créneau de la répétition.
+- ODJ:
+  - APPROBATION DES COMPTES
+    - vote sur le site de l'asso (rubrique "sondages")
+    - les comptes sont consultables (toute l'année, pas besoin de
+      compte google) sur le site de l'asso ci-dessous (rubrique
+      "administratif")
+  - ÉLECTION DES MEMBRES DU CA. VOTE PRÉSENTIEL à bulletin
+    secret). En 2022 les membres du CA sont au nombre de 3 et sont
+    également les membres du bureau (voir ci-dessus). Le nombre de
+    membres au CA n'est pas limité, les candidatures sont
+    bienvenues. Le CA désignera les 3 membres du bureau d'ici
+    2023.
+-  CR: Comptes approuvés, membres 2022 du CA reconduits en 2023.
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
