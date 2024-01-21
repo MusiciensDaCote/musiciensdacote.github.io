@@ -25,6 +25,10 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+# Pas d'icone Feed en bas. sert à rien
+atom_feed:
+  hide: true
+
 # Ceci marche avec certains theme thème some code in between three mais ça prend trop de place.
 # sidebar:
   # - index
