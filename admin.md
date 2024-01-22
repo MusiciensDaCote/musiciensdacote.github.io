@@ -50,15 +50,28 @@ cas vous pouvez vérifier qu'il a bien reporté votre adhésion dans les
 compte (ci-dessus). Et vous pouvez demander un reçu. Et SURTOUT
 n'hésitez pas à le relancer si il a oublié :-).
 
+Attention le RIB a changé au 1er janvier 2024.
+
+NOUVEAU RIB:
 
 ```
 M. Courtieu Pierre
-IBAN FR76 3005 6007 1707 1700 5598 709
-BIC CCFRFRPP
-Code banque 30056   -- Code guichet 00717
+IBAN FR76 1807 9752 9702 7588 3504 013
+BIC CCDFFRPPXXX
+Code banque 18079   -- Code guichet 75297
 Numérode compte -- clé RIB
 07170055987 -- 09
 ```
+
+
+<!-- ``` -->
+<!-- M. Courtieu Pierre -->
+<!-- IBAN FR76 3005 6007 1707 1700 5598 709 -->
+<!-- BIC CCFRFRPP -->
+<!-- Code banque 30056   -- Code guichet 00717 -->
+<!-- Numérode compte -- clé RIB -->
+<!-- 027588350 40 -- 13 -->
+<!-- ``` -->
 
 
 ## Assurance
