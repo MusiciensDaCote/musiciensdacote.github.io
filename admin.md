@@ -73,6 +73,19 @@ Numérode compte -- clé RIB
 <!-- 027588350 40 -- 13 -->
 <!-- ``` -->
 
+## Détails de l'association:
+
+- Siège de l'association: 11 Rue Theophile Gautier 92120 Montrouge
+- Date de création : 18/11/2021
+- Date de publication : 30/11/2021
+- Date de dernière modification : 30/11/2021
+- numéro RNA : W921010062
+- Type : Culture
+- Objet de l'association:
+  ```
+  permettre à des musiciens ayant relégué leur instrument de le ressortir pour jouer ensemble de la musique baroque et folk sans se limiter nécessairement à ces deux genres musicaux mais toujours avec le souci de la musicalité ; Partager cette musique dans des endroits inattendus
+  ```
+- site web https://github.com/MusiciensDaCote
 
 ## Assurance
 
